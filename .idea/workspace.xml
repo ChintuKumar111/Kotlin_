@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac9943b7-b7c1-446a-a790-5ffebe1ce9c8" name="Changes" comment="basics">
-      <change afterPath="$PROJECT_DIR$/src/kotlin_rev/variables.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_rev/array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_rev/arrayQuestion1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_rev/arrayQuestion2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin_rev/arrayQuestion3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kotlin_rev/Basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_rev/Basics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlin_rev/loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlin_rev/loops.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -38,7 +42,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.ArrayKt.executor": "Run",
+    "Kotlin.ArrayQuestion1Kt.executor": "Run",
+    "Kotlin.ArrayQuestion2Kt.executor": "Run",
+    "Kotlin.ArrayQuestion3Kt.executor": "Run",
     "Kotlin.BasicsKt.executor": "Run",
+    "Kotlin.LoopsKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
